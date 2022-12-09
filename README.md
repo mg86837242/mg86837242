@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BY
-- 👀 I’m interested in EDM and HotD
+- 👀 I’m currently interested in EDM, HotD and learning JS ecosystem
 - 🌱 I’m currently learning React ecosystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

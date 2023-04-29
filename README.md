@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SY
 - 👀 I’m currently interested in learning TypeScript and Next.js
 - 🌱 I’m currently learning TypeScript Ecosystem
-- 💞️ I’m looking to collaborate on React SPA/CSR project
+- 💞️ I’m looking to collaborate on React project
 - 📫 How to reach me ...

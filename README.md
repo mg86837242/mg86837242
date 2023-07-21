@@ -1,5 +1,5 @@
-- 👋 Hi, I’m SY
-- 👀 I’m currently interested in learning TypeScript and Next.js
-- 🌱 I’m currently learning TypeScript Ecosystem
+- 👋 Hi, I’m Scott
+- 👀 I’m currently interested in learning advanced CSS and Laravel
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on React project
 - 📫 How to reach me ...

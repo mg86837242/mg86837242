@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Scott
-- 👀 I’m currently interested in learning advanced CSS and Laravel
-- 🌱 I’m currently learning AWS
+- 👀 I’m currently interested in learning advanced CSS, intermediate TypeScript
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on React project
 - 📫 How to reach me ...

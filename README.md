@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Scott
+- 👋 Hi, I’m BY
 - 👀 I’m currently interested in learning advanced CSS, intermediate TypeScript
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on React project

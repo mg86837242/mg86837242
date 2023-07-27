@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BY
 - 👀 I’m currently interested in learning advanced CSS, intermediate TypeScript
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on React project
 - 📫 How to reach me ...

@@ -1,7 +1,5 @@
-- 👋 Hi, I’m BY
-- 👀 I’m currently interested in learning advanced CSS, intermediate TypeScript
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on React project
-- 📫 How to reach me ...
+# Hi There! 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=pakobo2381&stroke=COLOR)
+I'm Scott, a fullstack devleoper, and a recent graduate. I'm interested in developing and deploying web applications.
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,node,express,react,mysql,postgres,git,aws,figma,postman,ps,wordpress)](https://skillicons.dev)

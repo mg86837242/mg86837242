@@ -4,7 +4,7 @@ I'm Scott, a fullstack devleoper. I'm interested in developing and deploying web
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,python,mongodb,nodejs,express,react,next,vite,materialui,html,css,sass,tailwind,mysql,postgres,wordpress,git,figma,ps,linux,aws,docker,terraform" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,python,mongodb,nodejs,express,react,next,vite,materialui,html,css,sass,tailwind,mysql,postgres,git,linux,aws,docker,terraform,nginx,figma,ps,wordpress" />
   </a>
 </p>
 

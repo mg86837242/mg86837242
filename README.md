@@ -12,6 +12,6 @@ I'm looking forward to learning the following technologies in the future:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,django,graphql,vitest" />
+    <img src="https://skillicons.dev/icons?i=dotnet,graphql,django,fastapi,vitest" />
   </a>
 </p>
